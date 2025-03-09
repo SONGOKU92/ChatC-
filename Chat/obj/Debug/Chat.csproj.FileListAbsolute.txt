@@ -1,0 +1,9 @@
+C:\Users\adela\source\repos\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
+C:\Users\adela\source\repos\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\adela\source\repos\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\adela\source\repos\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\adela\source\repos\Chat\bin\Debug\Chat.exe.config
+C:\Users\adela\source\repos\Chat\bin\Debug\Chat.exe
+C:\Users\adela\source\repos\Chat\bin\Debug\Chat.pdb
+C:\Users\adela\source\repos\Chat\obj\Debug\Chat.exe
+C:\Users\adela\source\repos\Chat\obj\Debug\Chat.pdb
