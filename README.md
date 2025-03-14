@@ -1,0 +1,1 @@
+### Ce projet est une application de chat développée en C# avec une interface graphique Windows Forms. Il se compose d'un serveur et d'un client, permettant ainsi une communication en temps réel entre plusieurs utilisateurs. Le serveur accepte et gère simultanément plusieurs connexions grâce au multi-threading et diffuse les messages reçus à tous les clients connectés.
